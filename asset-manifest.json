@@ -1,13 +1,13 @@
 {
-  "main.css": "/listreact/static/css/main.9cda8736.chunk.css",
-  "main.js": "/listreact/static/js/main.e025a51c.chunk.js",
-  "main.js.map": "/listreact/static/js/main.e025a51c.chunk.js.map",
+  "main.css": "/listreact/static/css/main.dbd7f442.chunk.css",
+  "main.js": "/listreact/static/js/main.15abc069.chunk.js",
+  "main.js.map": "/listreact/static/js/main.15abc069.chunk.js.map",
   "runtime~main.js": "/listreact/static/js/runtime~main.ae1abafb.js",
   "runtime~main.js.map": "/listreact/static/js/runtime~main.ae1abafb.js.map",
   "static/js/2.86a2265c.chunk.js": "/listreact/static/js/2.86a2265c.chunk.js",
   "static/js/2.86a2265c.chunk.js.map": "/listreact/static/js/2.86a2265c.chunk.js.map",
   "index.html": "/listreact/index.html",
-  "precache-manifest.3cf60799ad6f1b9f1400ae67c22e12ab.js": "/listreact/precache-manifest.3cf60799ad6f1b9f1400ae67c22e12ab.js",
+  "precache-manifest.078357c5e063aa9a2c69318c2132f853.js": "/listreact/precache-manifest.078357c5e063aa9a2c69318c2132f853.js",
   "service-worker.js": "/listreact/service-worker.js",
-  "static/css/main.9cda8736.chunk.css.map": "/listreact/static/css/main.9cda8736.chunk.css.map"
+  "static/css/main.dbd7f442.chunk.css.map": "/listreact/static/css/main.dbd7f442.chunk.css.map"
 }
